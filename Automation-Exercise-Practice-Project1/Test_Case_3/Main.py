@@ -8,7 +8,7 @@ from Click_On_Login_Button.Click_On_Login_Button import handle_login_btn_click
 from Login_Error.Login_Error import handle_verification_of_error
 
 
-def complete_test_case_2():
+def complete_test_case_3():
     url = "https://automationexercise.com"
     try:
         # task 1, 2, 3 are done here
@@ -29,4 +29,4 @@ def complete_test_case_2():
         print("Main method Exception: ", type(e).__name__)
 
 
-complete_test_case_2()
+complete_test_case_3()

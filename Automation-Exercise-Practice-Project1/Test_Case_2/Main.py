@@ -9,7 +9,7 @@ from After_Account_Deletion_Page.Verify_Account_Deletion import handle_account_d
 
 
 def complete_test_case_2():
-    url = "https://automationexercise.com/"
+    url = "https://automationexercise.com"
     try:
         # task 1, 2, 3 are done here
         handle_homepage(url)
