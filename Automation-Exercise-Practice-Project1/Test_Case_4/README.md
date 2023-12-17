@@ -23,4 +23,3 @@
     <li>Click on <strong>Logout</strong> button</li>
     <li>Verify that Verify that user is navigated to login page</li>
   </ol>
-  <h3>Here is the sample <a href="https://www.awesomescreenshot.com/video/18610974?key=9b425e177992b6c3aa36d169f4fd190f">Video</a> of the output</h3>
