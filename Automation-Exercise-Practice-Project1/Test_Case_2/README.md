@@ -23,4 +23,3 @@
     <li>Click on <strong>Delete Account</strong> button</li>
     <li>Verify that <strong>ACCOUNT DELETED!</strong> is visible</li>
   </ol>
-  <h3>Here is the sample <a href="https://www.awesomescreenshot.com/video/18610139?key=c63552e35f388279dba4007e345beaa9">Video</a> of the output</h3>
