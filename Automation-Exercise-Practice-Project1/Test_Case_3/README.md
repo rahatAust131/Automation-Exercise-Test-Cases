@@ -21,4 +21,3 @@
     <li>Click <strong>Login</strong> button</li>
     <li>Verify error <strong>'Your email or password is incorrect!'</strong> is visible</li>
   </ol>
-  <h3>Here is the sample <a href="https://www.awesomescreenshot.com/video/18610276?key=bcca62cdeb0fa8b7757ac363e7999abf">Video</a> of the output</h3>
